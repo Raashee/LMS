@@ -24,7 +24,7 @@ This project is designed to automate manual library tasks, reduce errors, and im
 1. Clone this repository:
    ```bash
    git clone https://github.com/Raashee/LMS
-
+   ```
 2. Import the project into your Java IDE (e.g., IntelliJ IDEA, Eclipse).
 
 
@@ -47,7 +47,7 @@ books
 
 ## Screenshots
 
-![dashboard](i.ibb.co/0j12jR1N/Screenshot-2025-04-17-205849.png)
+![dashboard](https://i.ibb.co/0j12jR1N/Screenshot-2025-04-17-205849.png)
 
 ## Future Improvements
 
